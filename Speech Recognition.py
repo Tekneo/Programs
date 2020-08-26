@@ -1,3 +1,4 @@
+#This project is about implementing Speech Recognizer using Pyaudio and SpeechRecognition Libraries.
 from typing import Text
 import speech
 import speech_recognition as sr
